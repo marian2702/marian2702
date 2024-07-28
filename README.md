@@ -3,7 +3,7 @@
 ![Development](https://scontent.ffmo1-1.fna.fbcdn.net/v/t39.30808-6/436266788_3764088327208677_7052176727605707848_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=l6s70fQprmEAb607jhe&_nc_ht=scontent.ffmo1-1.fna&oh=00_AfCdPauvKAHlQpM9qrKzfDBy8Jy8VQA4p0YGoCNUuYcaFw&oe=6624EE74)
 Passionate beginner in front-end development with a solid foundation in Python, JavaScript, and MySQL. Continuously learning and exploring new technologies to enhance skills and create innovative projects. Welcome to my GitHub journey!
 
-
+https://marian2702.github.io/portfolio/index.html
 Skills: HTML / CSS / JS / PYTHON / MYSQL
 
 - 🔭 I’m currently working on this page. 
